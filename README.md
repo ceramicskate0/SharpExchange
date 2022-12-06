@@ -1,6 +1,7 @@
 # SharpExchange
 
-This command line POC shows how C# can be used to interact with Microsoft Exchange (EWS). Showing that it can be done in other tooling other than Powershell.
+This command line POC that shows how C# can be used to interact with Microsoft Exchange (EWS). Showing that it can be done in other tooling other than Powershell.
+Yes this is a simple POC to show how it could be done. Its not 100%. You want to show off you l33t C# red teamer skill open a pull request plz :)
 This is for educational purposes only. Dont use for evil or illegal things.
 
 ## MS Documentation:
@@ -55,3 +56,6 @@ This is for educational purposes only. Dont use for evil or illegal things.
 
 - Uses default .NET user agent string (For example: ... .NET CLR ...)
 
+## Credits:
+- Stackover flow
+- MS Docs
