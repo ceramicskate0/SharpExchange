@@ -1,6 +1,6 @@
-# ExchangeEmailDumper
+# SharpExchange
 
-This command line POC shows how C# can be used to interact with Microsoft Exchange. SHowing that it can be done in other tooling other than Powershell.
+This command line POC shows how C# can be used to interact with Microsoft Exchange. Showing that it can be done in other tooling other than Powershell.
 This is for educational purposes only. Dont use for evil or illegal things.
 
 # Like the work dont forget to hit that Star Button and Sponsor
