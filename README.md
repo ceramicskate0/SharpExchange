@@ -47,7 +47,7 @@ This is for educational purposes only. Dont use for evil or illegal things.
 ## Dont use for evil or if not authorized to do so. This is for educational purposes only. Not an exploit. 
 
 
-## If someone decides to use this (its already flagged by some A/V's on disk) IOC:
+## If someone decides to use this (its already flagged by some A/V's on disk) here are some ideas for IOC:
 
 - Its C#, so AMSI is likely in play on modern systems where it is enabled
 
