@@ -9,7 +9,7 @@ This is for educational purposes only. Dont use for evil or illegal things.
 - https://learn.microsoft.com/en-us/exchange/client-developer/exchange-web-services/get-started-with-ews-managed-api-client-applications
 - https://learn.microsoft.com/en-us/dotnet/api/microsoft.exchange.webservices.data.mailbox?view=exchange-ews-api
 
-# Like the work dont forget to hit that Star Button and Sponsor
+# Like the work dont forget to hit that Star Button
 
 ```
             
