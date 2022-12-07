@@ -48,6 +48,11 @@ This is for educational purposes only. Dont use for evil or illegal things.
 ```
 ## Dont use for evil or if not authorized to do so. This is for educational purposes only. Not an exploit. 
 
+## #rd Party Depend:
+
+- https://github.com/zzzprojects/html-agility-pack
+
+- Microsoft.Exchange.WebServices
 
 ## If someone decides to use this (its already flagged by some A/V's on disk) here are some ideas for IOC:
 
