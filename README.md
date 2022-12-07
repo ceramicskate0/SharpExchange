@@ -48,7 +48,7 @@ This is for educational purposes only. Dont use for evil or illegal things.
 ```
 ## Dont use for evil or if not authorized to do so. This is for educational purposes only. Not an exploit. 
 
-## #rd Party Depend:
+## 3rd Party Depend:
 
 - https://github.com/zzzprojects/html-agility-pack
 
