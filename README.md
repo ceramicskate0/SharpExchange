@@ -64,6 +64,8 @@ This is for educational purposes only. Dont use for evil or illegal things.
 
 - When Run the .NET exe could create the temp file in the user's account folder structure with its name.
 
+- GUID of app
+
 - Many more opportunites exist if code is reviewed
 
 ## Credits:
