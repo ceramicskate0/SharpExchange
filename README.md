@@ -57,6 +57,10 @@ This is for educational purposes only. Dont use for evil or illegal things.
 
 - Uses default .NET user agent string (For example: ... .NET CLR ...)
 
+- When Run the .NET exe could create the temp file in the user's account folder structure with its name.
+
+- Many more opportunites exist if code is reviewed
+
 ## Credits:
 - Stackover flow
 - MS Docs
